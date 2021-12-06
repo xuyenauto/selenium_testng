@@ -22,12 +22,11 @@ time_out_second: time out wait for element
 
 How to run tests?
 
-1.Refer the testng/testng.xml
-2.Right click and run the test
-3.Or run via maven by typing 'mvn test' on the terminal
+1.Refer the testng/testng.xml ==> right click and run the test
+2.Or run via maven by typing 'mvn test' on the terminal
 
 How to view the report?
 Assess folder report at ExtentReports/extent-report.html and explore the nice report by yourself.
 
 
---Contact Information If any idea/feedback please mail to khacxuyenit@gmail.com
+Contact Information If any idea/feedback please mail to khacxuyenit@gmail.com or skype langtushtp
