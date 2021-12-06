@@ -3,15 +3,15 @@ Automation Framework Using Selenium And TestNG
 
 he framework using TestNG + Selenium (Java) + Page Object Pattern (include page factory) + Maven to automate web application
 
-What is this repository for? https://github.com/xuyenauto/cucumber-automation-test.git
+What is this repository for? https://github.com/xuyenauto/selenium_testng.git
 
 Configuration
 
 Install Java 13 version
 Install an IDE (Eclipse| IntelliJ)
 Install Cucumber plugin in your installed IDE
-Install Maven 3 version at least (I'm using version 3.3.9)
-git clone https://github.com/xuyenauto/cucumber-automation-test.git
+Install Maven 3 version at least (I'm using version 3.8.0)
+git clone https://github.com/xuyenauto/selenium_testng.git
 Import the project in your installed IDE
 run maven to download dependencies by command mvn test
 Before run tests
