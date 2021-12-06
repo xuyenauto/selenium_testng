@@ -1,0 +1,9 @@
+{
+  "Constant": {
+    "browser": "chrome",
+    "firefox_install_location": "C:\\Users\\xutra\\AppData\\Local\\Mozilla Firefox\\firefox.exe",
+    "url": "https://aspireapp.odoo.com",
+    "grid_hub": "",
+    "time_out_second": 60
+  }
+}

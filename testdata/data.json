@@ -1,0 +1,14 @@
+{
+  "ManufacturingOrder": {
+    "username": "user@aspireapp.com",
+    "password": "@sp1r3app",
+    "inventory_feature": "Inventory",
+    "products": "Products",
+    "location": "WH/Stock",
+    "package": "1",
+    "quantity": "11",
+    "manufacturing_feature": "Manufacturing",
+    "consume": "2",
+    "status": "DONE"
+  }
+}
